@@ -55,6 +55,12 @@
   dropdown:
   - title: "Blog Archive"
     url: "/blog/archive/"
+  dropdown:
+  - title: "Blog Archive"
+    url: "/blog/archive/"
+  dropdown:
+  - title: "PKU&Caltech"
+    url: "/pku+caltech/"
 
 - title: "Join Us"
   url: "/join/"

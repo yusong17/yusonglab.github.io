@@ -1,0 +1,68 @@
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+      .wrappku{
+        margin: 0 auto;
+        width: 640px;
+        height: 360px;
+        background-color: white;
+        overflow: hidden;
+	position: relative;
+      }
+      .boxpku{
+        width: calc(640px*6);
+        animation: swiperpku 15s linear infinite;
+      }
+      .pku{
+        float: left;
+        width: 640px;
+	height: 360px;
+      }
+      @keyframes swiperpku{
+        0% {
+          transform: translateX(0);
+        }
+        6% {
+          transform: translateX(-640px);
+        }
+        20% {
+          transform: translateX(-640px);
+        }
+        26% {
+          transform: translateX(-1280px);
+        }       
+        40% {
+          transform: translateX(-1280px);
+        }    
+        46% {
+          transform: translateX(-1920px);
+        }
+        60% {
+          transform: translateX(-1920px);
+        }
+	66% {
+          transform: translateX(-2560px);
+        }
+        80% {
+          transform: translateX(-2560px);
+        }
+	86% {
+          transform: translateX(-3200px);
+        }
+        100% {
+          transform: translateX(-3200px);
+        }
+      }
+    </style>
+
+    <div class="wrappku">
+      <div class="boxpku">
+        <img src="/images/pku-5.jpg" class="pku" width="100%">
+        <img src="/images/pku-1.jpg" class="pku" width="100%">
+        <img src="/images/pku-2.jpg" class="pku" width="100%">
+	<img src="/images/pku-3.jpg" class="pku" width="100%">
+	<img src="/images/pku-4.jpg" class="pku" width="100%">
+        <img src="/images/pku-5.jpg" class="pku" width="100%">
+      </div>
+    </div>
+
