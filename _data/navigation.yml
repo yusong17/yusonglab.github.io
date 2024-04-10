@@ -43,7 +43,7 @@
     url: "/roadmap/"
 
 - title: Awards
-  url: "/design/post-right-sidebar/"
+  url: "/design/post-right-sidebar-awards/"
   side: left
   dropdown:
   - title: "Blog Archive"
