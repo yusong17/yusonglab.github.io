@@ -4,7 +4,7 @@ sidebar: news
 subheadline: Yu Song Lab @ CityU
 title:  "News"
 teaser: ""
-breadcrumb: true
+breadcrumb: false
 tags:
     - post format
 categories:
@@ -35,8 +35,6 @@ header:
 
 
 - 2022/06: My co-author paper on soft human-machine interface for robotic sensing was published at ***[Science Robotics](https://www.science.org/doi/full/10.1126/scirobotics.abn0495)*** and featured on ***Journal Cover***.
-
-<br>
 
 ## Invited Talks
 
@@ -101,5 +99,4 @@ header:
 
 <div id="backtop">
   <b> <a href="#">TOP</a> </b>
-</div> 
-
+</div>
