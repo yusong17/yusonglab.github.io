@@ -3,11 +3,11 @@ layout: page
 sidebar: news
 subheadline: Yu Song Lab @ CityU
 title:  "News"
+meta_title: "News"
 breadcrumb: false
 tags:
     - post format
-categories:
-    - design
+permalink: "/news/"
 header:
    image_fullwidth: header_unsplash_leaf.jpg
 ---
