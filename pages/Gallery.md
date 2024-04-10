@@ -5,7 +5,7 @@ meta_title          : "Gallery"
 subheadline         : "Yu Song Lab @ CityU"
 permalink           : "/gallery/"
 header:
-   image_fullwidth: header_unsplash_leaf.jpg
+   image_fullwidth: header_unsplash_8.jpg
 ---
 
 <br>
