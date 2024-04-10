@@ -34,7 +34,7 @@
 
 
 - title: News
-  url: "/design/post-right-sidebar/"
+  url: "/design/post-right-sidebar-news/"
   side: left
   dropdown:
   - title: "Changelog"
