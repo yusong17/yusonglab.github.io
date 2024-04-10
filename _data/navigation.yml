@@ -7,12 +7,9 @@
   side: left
 
 - title: "Members"
-  url: "/design/grid/"
+  url: "/members/"
   side: left
   dropdown:
-  dropdown:
-  - title: "PI-Yu Song"
-    url: "/members/"
   - title: "Current members"
     url: "/design/header-full-width-image/"
 
@@ -23,7 +20,7 @@
 
 
 - title: News
-  url: "/design/post-right-sidebar-news/"
+  url: "/news/"
   side: left
 
 - title: Awards
