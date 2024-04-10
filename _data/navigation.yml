@@ -46,8 +46,8 @@
   url: "/design/post-right-sidebar-awards/"
   side: left
   dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
+  - title: "Gallery"
+    url: "/gallery/"
 
 - title: Gallery
   url: "/design/gallery/"
