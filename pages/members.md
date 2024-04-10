@@ -5,7 +5,7 @@ meta_title          : "Lab members"
 subheadline         : "Yu Song Lab @ CityU"
 permalink           : "/members/"
 header:
-   image_fullwidth: header_unsplash_leaf.jpg
+   image_fullwidth: header-bus.jpg
 ---
 
 <br>
