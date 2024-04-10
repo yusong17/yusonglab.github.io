@@ -29,7 +29,7 @@
     url: "/design/no-header-but-image/"
 
 - title: Publications
-  url: "/design/page-fullwidth/"
+  url: "/design/page-fullwidth-pub/"
   side: left
   dropdown:
   - title: "Blog Archive"
@@ -87,7 +87,7 @@
   url: "/search/"
   side: right
 
-- title: "Contact"
+- title: "Openings"
   url: "/contact/"
   side: right
 
