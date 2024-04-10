@@ -12,21 +12,10 @@
   dropdown:
   dropdown:
   - title: "PI-Yu Song"
-    url: "/design/grid/"
+    url: "/members/"
   - title: "Current members"
     url: "/design/header-full-width-image/"
-  - title: "Alumni"
-    url: "/design/header-image-pattern/"
-  - title: "Header with image and color"
-    url: "/design/header-image-color/"
-  - title: "Header Only With Logo"
-    url: "/design/page-fullwidth-pub/"
-  - title: "Header With Text"
-    url: "/design/header-with-text/"
-  - title: "No Header"
-    url: "/design/no-header/"
-  - title: "No Header but Image"
-    url: "/design/no-header-but-image/"
+
 
 - title: Publications
   url: "/design/page-fullwidth/"
@@ -36,11 +25,6 @@
 - title: News
   url: "/design/post-right-sidebar-news/"
   side: left
-  dropdown:
-  - title: "Changelog"
-    url: "/changelog/"
-  - title: "Roadmap"
-    url: "/roadmap/"
 
 - title: Awards
   url: "/design/post-right-sidebar-awards/"
@@ -49,9 +33,6 @@
 - title: Gallery
   url: "/gallery/"
   side: left
-  dropdown:
-  - title: "Old Time"
-    url: "/old-time/"
 
 - title: "Join Us"
   url: "/join/"
