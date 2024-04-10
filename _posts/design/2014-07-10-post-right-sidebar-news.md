@@ -3,7 +3,6 @@ layout: page
 sidebar: news
 subheadline: Yu Song Lab @ CityU
 title:  "News"
-teaser: ""
 breadcrumb: false
 tags:
     - post format
