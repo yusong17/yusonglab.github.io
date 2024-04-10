@@ -15,7 +15,7 @@ header:
       <img src="https://yusong17.github.io/yusonglab.github.io/images/drsong.png">
   </div>
   <div class="large-8 columns">
-    <p style="font-size:28px">
+    <p style="font-size:24px">
         <b>Yu Song, Ph.D. CV Bio</b><br>
         Presidential Assistant Professor<br>
         Department of Biomedical Engineering<br>
