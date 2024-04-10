@@ -9,15 +9,13 @@ header:
 ---
 ### [View Google Scholar Profile](https://scholar.google.com.hk/citations?user=lDml1SkAAAAJ&hl=en)&emsp;&emsp;[[Books]](#Books) 
 
-​	55. C Xu†, **Yu Song†**, J Sempionatto†, S Solomon†, Y Yu, H Nyein, R Tay, J Li, A Lao, T Hsiai, J Sumner, W Gao\*, [An artificial intelligence-reinforced physicochemical sensing electronic skin for stress response monitoring](https://www.nature.com/articles/s41928-023-01116-6), ***Nature Electronics***, 2024, 7, 168-179. [**Download PDF**](https://yusong17.github.io/mypaper/nel.pdf). 
-
 <br>
+
+​	55. C Xu†, **Yu Song†**, J Sempionatto†, S Solomon†, Y Yu, H Nyein, R Tay, J Li, A Lao, T Hsiai, J Sumner, W Gao\*, [An artificial intelligence-reinforced physicochemical sensing electronic skin for stress response monitoring](https://www.nature.com/articles/s41928-023-01116-6), ***Nature Electronics***, 2024, 7, 168-179. [**Download PDF**](https://yusong17.github.io/mypaper/nel.pdf). 
 
 *Highlighted in "[Stress monitoring with wearable technology and AI](https://www.nature.com/articles/s41928-024-01128-w)", Nature Electronics, 2024, 7, 98-99.*
 
 ​	54. **Yu Song†**, R Tay†, J Li, C Xu, J. Min, E Sani, G Kim, W Heng, I Kim, W Gao\*. [3D-printed epifluidic electronic skin for machine learning-powered multimodal health surveillance](https://www.science.org/doi/full/10.1126/sciadv.adi6492), ***Science Advances***, 2023, 9, eadi6492. [**Download PDF**](https://yusong17.github.io/mypaper/sa-2.pdf).
-
-
 
 *Highlighted in Science.org, Science Advances, [IEEE Spectrum](https://spectrum.ieee.org/energy-harvesting-wearable-tech), [Phys.org](https://phys.org/news/2023-09-scientists-3d-printed-epifluidic-electronic-skin.html), [THE SCIENCE TIMES](https://www.sciencetimes.com/articles/46264/20230929/3d-printed-epifluidic-electronic-skin-developed-scientists-multimodal-health-surveillance.htm), etc.*
 
@@ -175,13 +173,9 @@ header:
 
 ​	1. **Yu Song**, Z Zhang, N Duan, J Wang, Y Chen, B Tong, X Yang, Y Zhang\*. [Composition and size dependence of magnetic properties of FePt/Fe exchange-spring films](https://www.sciencedirect.com/science/article/pii/S0304885314006404). ***Journal of Magnetism and Magnetic Materials***, 2014, 371, 100-105. [**Download PDF**](https://yusong17.github.io/mypaper/jmmm.pdf).
 
-<br>
-
 <span id="Books">
 
 ### Books
-
-​	
 
 ​	4. **Yu Song**, Wei Gao, Haixia Zhang. [**Integrated Smart Micro-Systems Towards Personalized Healthcare**](https://onlinelibrary.wiley.com/doi/book/10.1002/9783527833474), Wiley-VCH, 2022. [**Book Cover**](https://yusong17.github.io/mypaper/wiley-thesis-cover.pdf).
 
@@ -190,8 +184,6 @@ header:
 ​	2. **Yu Song**. Chapter 16: **Flexible Electronic Devices with Multi-Dimensional Perception**, in book *Frontier Technologies for Integrated Micro/Nano Systems*. Peking University, 2023. (Chinese)
 
 ​	1. **Yu Song**. Chapter 21: **Skin-Interfaced Sweat Biosensors**, in book *Frontier Technologies for Integrated Micro/Nano Systems*. Peking University, 2023. (Chinese)
-
-<br>
 
 <div id="backtop">
   <b> <a href="#">TOP</a> </b>

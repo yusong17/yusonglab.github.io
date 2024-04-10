@@ -1,8 +1,8 @@
 ---
-layout: page-fullwidth-pub
+layout: page-fullwidth
 title:  "Publications"
 subheadline:  "Yu Song Lab @ CityU"
-teaser: "<a href="https://yusong17.github.io/yusonglab.github.io/">View Yu Song's google scholar</a>"
+teaser: ""
 categories:
     - design
 header:

@@ -20,7 +20,7 @@
   - title: "Header with image and color"
     url: "/design/header-image-color/"
   - title: "Header Only With Logo"
-    url: "/design/header-logo-only/"
+    url: "/design/page-fullwidth-pub/"
   - title: "Header With Text"
     url: "/design/header-with-text/"
   - title: "No Header"
@@ -31,9 +31,7 @@
 - title: Publications
   url: "/design/page-fullwidth/"
   side: left
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
+
 
 - title: News
   url: "/design/post-right-sidebar/"
@@ -82,6 +80,9 @@
     url: "/design/gallery/"
   - title: "Portfolio"
     url: "/design/portfolio/"
+  dropdown:
+  - title: "Blog Archive"
+    url: "/blog/archive/"
 
 - title: "Search"
   url: "/search/"
