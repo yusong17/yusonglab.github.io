@@ -39,7 +39,6 @@ Laser-enabled flexible lab-on-the-skin for non-invasive metabolic and nutritiona
 </div> </center>
 
 <center>
-
 <img src="/research/mip.jpg" width="540">
 </center>
 

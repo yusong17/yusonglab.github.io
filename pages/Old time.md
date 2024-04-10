@@ -11,13 +11,11 @@ header:
 ## <center>Cheers to life !!</center>
 
 <center>
-
 <img src="/images/2023-new year.jpg" width="640">
 
 </center>
 
 <center><div style="color:orange; border-bottom: 1px solid #d9d9d9;display: inline-block;color: #999;margin: 5px; margin-bottom: 30px"> 
-
 <b>Happly new year to 2023 !</b>
 
 </div> </center>
