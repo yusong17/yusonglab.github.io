@@ -1,9 +1,9 @@
 ---
 layout: page
 sidebar: news
-subheadline: Templates
+subheadline: Yu Song Lab @ CityU
 title:  "News"
-teaser: "This is an example of page/post with a sidebar on the right."
+teaser: ""
 breadcrumb: true
 tags:
     - post format
@@ -15,7 +15,7 @@ image:
     caption: Unsplash.com
     caption_url: http://unsplash.com
 ---
-*Feeling Responsive* shows metadata by default. The default behaviour can be changed via `config.yml`. To show metadata at the end of a page/post just add the following to front matter:
+*Feeling Responsive* shows metadata by default. The default behaviour can be changed via `config.yml`. To show metadata at th to front matter:
 <!--more-->
 
 ~~~
