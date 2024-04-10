@@ -9,10 +9,6 @@
 - title: "Members"
   url: "/members/"
   side: left
-  dropdown:
-  - title: "Current members"
-    url: "/design/header-full-width-image/"
-
 
 - title: Publications
   url: "/publications/"
