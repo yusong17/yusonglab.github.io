@@ -5,7 +5,7 @@ meta_title: "Research"
 subheadline:  "Yu Song Lab @ CityU"
 permalink: "/research/"
 header:
-   image_fullwidth: header_unsplash_leaf.jpg
+   image_fullwidth: usa-3.jpg
 ---
 ## <center>Wearable bioelectronics for personalized healthcare</center>
 

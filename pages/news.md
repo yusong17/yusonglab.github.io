@@ -9,7 +9,7 @@ tags:
     - post format
 permalink: "/news/"
 header:
-   image_fullwidth: header_unsplash_leaf.jpg
+   image_fullwidth: pku-2.jpg
 ---
 - 2024/02: My first-author paper on wearable multimodal biosensors for AI-reinforced stress assessment was published at ***[Nature Electronics](https://www.nature.com/articles/s41928-023-01116-6)***.
 

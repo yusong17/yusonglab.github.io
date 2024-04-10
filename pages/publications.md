@@ -5,7 +5,7 @@ meta_title: "Publications"
 subheadline:  "Yu Song Lab @ CityU"
 permalink: "/publications/"
 header:
-   image_fullwidth: header_unsplash_leaf.jpg
+   image_fullwidth: pku-4.jpg
 ---
 ### [View Google Scholar Profile](https://scholar.google.com.hk/citations?user=lDml1SkAAAAJ&hl=en)&emsp;&emsp;[[Books]](#Books) 
 

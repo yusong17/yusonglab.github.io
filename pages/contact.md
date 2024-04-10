@@ -5,7 +5,7 @@ meta_title          : "Contact"
 subheadline         : "Yu Song Lab @ CityU"
 permalink           : "/contact/"
 header:
-   image_fullwidth: header_unsplash_leaf.jpg
+   image_fullwidth: usa-4.jpg
 ---
 ### Dr. Yu Song
 
