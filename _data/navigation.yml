@@ -1,14 +1,66 @@
-- title: Start
+- title: Yu Song Lab
   url: "/"
   side: left
 
-- title: Lab
+- title: Research
   url: "/getting-started/"
   side: left
 
+- title: "Members"
+  url: "/design/grid/"
+  side: left
+  dropdown:
+  dropdown:
+  - title: "PI-Yu Song"
+    url: "/design/grid/"
+  - title: "Current members"
+    url: "/design/header-full-width-image/"
+  - title: "Alumni"
+    url: "/design/header-image-pattern/"
+  - title: "Header with image and color"
+    url: "/design/header-image-color/"
+  - title: "Header Only With Logo"
+    url: "/design/header-logo-only/"
+  - title: "Header With Text"
+    url: "/design/header-with-text/"
+  - title: "No Header"
+    url: "/design/no-header/"
+  - title: "No Header but Image"
+    url: "/design/no-header-but-image/"
+
+- title: Publications
+  url: "/design/page-fullwidth/"
+  side: left
+  dropdown:
+  - title: "Blog Archive"
+    url: "/blog/archive/"
+
+- title: News
+  url: "/design/post-right-sidebar/"
+  side: left
+  dropdown:
+  - title: "Changelog"
+    url: "/changelog/"
+  - title: "Roadmap"
+    url: "/roadmap/"
+
+- title: Awards
+  url: "/design/post-right-sidebar/"
+  side: left
+  dropdown:
+  - title: "Blog Archive"
+    url: "/blog/archive/"
+
+- title: Gallery
+  url: "/design/gallery/"
+  side: left
+  dropdown:
+  - title: "Blog Archive"
+    url: "/blog/archive/"
+
 - title: "Research"
   url: "/design/"
-  side: left
+  side: right
   dropdown:
   - title: "Grid & Colors"
     url: "/design/grid/"
@@ -31,59 +83,14 @@
   - title: "Portfolio"
     url: "/design/portfolio/"
 
-- title: "Members"
-  url: "/headers/"
-  side: left
-  dropdown:
-  - title: "Header with Full-Width-Image"
-    url: "/design/header-full-width-image/"
-  - title: "Header with Image and Pattern"
-    url: "/design/header-image-pattern/"
-  - title: "Header with image and color"
-    url: "/design/header-image-color/"
-  - title: "Header Only With Logo"
-    url: "/design/header-logo-only/"
-  - title: "Header With Text"
-    url: "/design/header-with-text/"
-  - title: "No Header"
-    url: "/design/no-header/"
-  - title: "No Header but Image"
-    url: "/design/no-header-but-image/"
-
-- title: News
-  url: "/documentation/"
-  side: left
-  dropdown:
-  - title: "Changelog"
-    url: "/changelog/"
-  - title: "Roadmap"
-    url: "/roadmap/"
-
-- title: Publications
-  url: "/blog/"
-  side: left
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
-
-- title: Awards
-  url: "/blog/"
-  side: left
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
-
-- title: Gallery
-  url: "/blog/"
-  side: left
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
-
 - title: "Search"
   url: "/search/"
   side: right
 
 - title: "Contact"
   url: "/contact/"
+  side: right
+
+- title: "Running"
+  url: "https://yusong17.github.io/running-page/"
   side: right
