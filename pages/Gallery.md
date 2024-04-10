@@ -14,7 +14,7 @@ header:
   <div class="large-6 columns">
       <center>
     	<img src="/images/2023-new year.jpg" width = "480">
-      <br>
+      <br><br>
       <b>Happy new year to 2023!</b>
 			</center>
   </div>   
@@ -52,7 +52,7 @@ header:
   <div class="large-6 columns">
     <center>
       <img src="https://yusong17.github.io/yusonglab.github.io/images/2019-alice-wei.jpg">
-      <br>
+      <br><br>
       <b>With Alice and Wei @ Caltech, Dec 2019.</b>
     </center>
   </div>
