@@ -1,9 +1,9 @@
 ---
 layout: page-fullwidth
 title:  "Research"
+meta_title: "Research"
 subheadline:  "Yu Song Lab @ CityU"
-categories:
-    - design
+permalink: "/research/"
 header:
    image_fullwidth: header_unsplash_leaf.jpg
 ---
