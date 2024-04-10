@@ -88,8 +88,8 @@
   url: "/search/"
   side: right
 
-- title: "Openings"
-  url: "/openings/"
+- title: "Join Us"
+  url: "/join/"
   side: right
 
 - title: "Contact"
