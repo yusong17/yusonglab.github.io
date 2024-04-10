@@ -1,18 +1,20 @@
 ---
-layout              : page
+layout              : page-fullwidth
 title               : "Contact"
 meta_title          : ""
 subheadline         : "Yu Song Lab @ CityU"
 teaser              : ""
 permalink           : "/contact/"
+header:
+   image_fullwidth: header_unsplash_leaf.jpg
 ---
 ### Dr. Yu Song
 
 ##### Email: xxx[at]cityu.edu.hk
 
-**Office: YEUNG**
+##### **Office: YEUNG**
 
-**Phone:**
+##### **Phone:**
 
 ##### [Department of Biomedical Engineering](https://www.cityu.edu.hk/bme/)
 
