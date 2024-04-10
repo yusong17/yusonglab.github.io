@@ -76,7 +76,6 @@ systemic inflammation (<i><b>Nature Biomedical Engineering</b></i> 2023)
 
 <details>
 
-
 <summary><h2>II. Wearable battery-free bioelectronics◥</h2></summary>
 
 <center>
@@ -118,9 +117,8 @@ Perovskite solar cells-powered autonomous wearable biosensor (<i><b>Nature Elect
 </details>
 
 <center>
-<img src="/images/research/battery.jpg" width="600">
+<img src="/research/battery.jpg" width="600">
 </center>
-
 
 ***Science Advances, 2020; Nature Electronics, 2023; Science Robotics, 2020; Accounts of Materials Research, 2021; Advanced Materials, 2021; Nano Energy, 2019; Nano Energy, 2020.*** 
 
@@ -130,7 +128,7 @@ Perovskite solar cells-powered autonomous wearable biosensor (<i><b>Nature Elect
 <summary><h2>III. Machine learning-powered health surveillance◥</h2></summary>
 
 <center>
-<img src="/images/research/e3skin-1.jpg" width="540">
+<img src="/research/e3skin-1.jpg" width="540">
 </center>
 
 
@@ -151,19 +149,18 @@ Perovskite solar cells-powered autonomous wearable biosensor (<i><b>Nature Elect
 
 
 <center>
-<img src="/images/research/robot.jpg" width="540">
+<img src="/research/robot.jpg" width="540">
 </center>
 
 
 <center><div style="color:orange; border-bottom: 1px solid #d9d9d9;display: inline-block;color: #999;padding: 8px;margin: 5px; margin-bottom: 30px"> All-printed soft human-machine interface for robotic physicochemical sensing (<i><b>Science Robotics</b></i> 2022, 7, eabn0495)
-
 
 </div> </center>
 
 </details>
 
 <center>
-<img src="/images/research/ml.jpg" width="600">
+<img src="/research/ml.jpg" width="600">
 </center>
 
 
@@ -175,7 +172,7 @@ Perovskite solar cells-powered autonomous wearable biosensor (<i><b>Nature Elect
 
 <center>
 
-<img src="/images/research/wound.jpg" width="600">
+<img src="/research/wound.jpg" width="600">
 </center>
 
 <center><div style="color:orange; border-bottom: 1px solid #d9d9d9;display: inline-block;color: #999;padding: 8px;margin: 5px; margin-bottom: 30px"> 
