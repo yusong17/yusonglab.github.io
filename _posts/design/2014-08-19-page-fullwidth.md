@@ -2,7 +2,6 @@
 layout: page-fullwidth
 title:  "Publications"
 subheadline:  "Yu Song Lab @ CityU"
-teaser: "Yu Song Lab @ CityU"
 categories:
     - design
 header:
@@ -10,9 +9,11 @@ header:
 ---
 ### [View Google Scholar Profile](https://scholar.google.com.hk/citations?user=lDml1SkAAAAJ&hl=en)
 
- [[Journal]](#Journal)&emsp;&emsp;[[Book]](#Books) &emsp;&emsp;[[Conference](#Conference)]
+ [[Journal]](#Journal)&emsp;&emsp;[[Book]](#Books) 
 
-55. C Xu†, **Yu Song†**, J Sempionatto†, S Solomon†, Y Yu, H Nyein, R Tay, J Li, A Lao, T Hsiai, J Sumner, W Gao\*, [An artificial intelligence-reinforced physicochemical sensing electronic skin for stress response monitoring](https://www.nature.com/articles/s41928-023-01116-6), ***Nature Electronics***, 2024, 7, 168-179. [**Download PDF**](https://yusong17.github.io/mypaper/nel.pdf).
+### Journal Articles
+
+​	55. C Xu†, **Yu Song†**, J Sempionatto†, S Solomon†, Y Yu, H Nyein, R Tay, J Li, A Lao, T Hsiai, J Sumner, W Gao\*, [An artificial intelligence-reinforced physicochemical sensing electronic skin for stress response monitoring](https://www.nature.com/articles/s41928-023-01116-6), ***Nature Electronics***, 2024, 7, 168-179. [**Download PDF**](https://yusong17.github.io/mypaper/nel.pdf).
 
 *Highlighted in "[Stress monitoring with wearable technology and AI](https://www.nature.com/articles/s41928-024-01128-w)", Nature Electronics, 2024, 7, 98-99.*
 
@@ -286,21 +287,15 @@ header:
 
 <span id="Books">
 
-## Books (1 first-author, 3 chapter-author)
+### Books
 
 ​	
 
 ​	4. **Yu Song**, Wei Gao, Haixia Zhang. [**Integrated Smart Micro-Systems Towards Personalized Healthcare**](https://onlinelibrary.wiley.com/doi/book/10.1002/9783527833474), Wiley-VCH, 2022. [**Book Cover**](https://yusong17.github.io/mypaper/wiley-thesis-cover.pdf).
 
-​	
-
 ​	3. **Yu Song**. Chapter 4: [**Characterization of Triboelectric Nanogenerators**](https://onlinelibrary.wiley.com/doi/abs/10.1002/9783527820153.ch4), in book *Flexible and Stretchable Triboelectric Nanogenerator Devices: Toward Self-powered Systems*. Wiley-VCH, 2019. [**Book Cover**](https://yusong17.github.io/mypaper/wiley-cover.pdf).
 
-​	
-
 ​	2. **Yu Song**. Chapter 16: **Flexible Electronic Devices with Multi-Dimensional Perception**, in book *Frontier Technologies for Integrated Micro/Nano Systems*. Peking University, 2023. (Chinese)
-
-​	
 
 ​	1. **Yu Song**. Chapter 21: **Skin-Interfaced Sweat Biosensors**, in book *Frontier Technologies for Integrated Micro/Nano Systems*. Peking University, 2023. (Chinese)
 
