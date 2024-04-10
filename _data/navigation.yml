@@ -89,6 +89,10 @@
   side: right
 
 - title: "Openings"
+  url: "/openings/"
+  side: right
+
+- title: "Contact"
   url: "/contact/"
   side: right
 
