@@ -1,6 +1,6 @@
 ---
 layout: page
-sidebar: right
+sidebar: news
 subheadline: Templates
 title:  "News"
 teaser: "This is an example of page/post with a sidebar on the right."
