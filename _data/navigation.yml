@@ -45,22 +45,13 @@
 - title: Awards
   url: "/design/post-right-sidebar-awards/"
   side: left
-  dropdown:
-  - title: "Gallery"
-    url: "/gallery/"
 
 - title: Gallery
-  url: "/design/gallery/"
+  url: "/gallery/"
   side: left
   dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
-  dropdown:
-  - title: "PKU&Caltech"
-    url: "/pku+caltech/"
+  - title: "Old Time"
+    url: "/old-time/"
 
 - title: "Join Us"
   url: "/join/"
