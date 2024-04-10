@@ -2,11 +2,11 @@
   url: "/"
   side: left
 
-- title: Getting Started
+- title: Lab
   url: "/getting-started/"
   side: left
 
-- title: "Templates"
+- title: "Research"
   url: "/design/"
   side: left
   dropdown:
@@ -31,7 +31,7 @@
   - title: "Portfolio"
     url: "/design/portfolio/"
 
-- title: "Header Styles"
+- title: "Members"
   url: "/headers/"
   side: left
   dropdown:
@@ -50,7 +50,7 @@
   - title: "No Header but Image"
     url: "/design/no-header-but-image/"
 
-- title: Documentation
+- title: News
   url: "/documentation/"
   side: left
   dropdown:
@@ -59,7 +59,21 @@
   - title: "Roadmap"
     url: "/roadmap/"
 
-- title: Blog
+- title: Publications
+  url: "/blog/"
+  side: left
+  dropdown:
+  - title: "Blog Archive"
+    url: "/blog/archive/"
+
+- title: Awards
+  url: "/blog/"
+  side: left
+  dropdown:
+  - title: "Blog Archive"
+    url: "/blog/archive/"
+
+- title: Gallery
   url: "/blog/"
   side: left
   dropdown:
