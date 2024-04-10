@@ -1,5 +1,5 @@
 ---
-layout              : page-fullwidth
+layout              : page
 title               : "Contact"
 meta_title          : "Welcome"
 subheadline         : "Yu Song Lab @ CityU"
