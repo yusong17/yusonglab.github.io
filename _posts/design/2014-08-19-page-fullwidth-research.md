@@ -40,7 +40,7 @@ Laser-enabled flexible lab-on-the-skin for non-invasive metabolic and nutritiona
 
 <center>
 
-<img src="/images/research/mip.jpg" width="540">
+<img src="/research/mip.jpg" width="540">
 </center>
 
 <center><div style="color:orange; border-bottom: 1px solid #d9d9d9;display: inline-block;color: #999;padding: 8px;margin: 5px; margin-bottom: 30px"> 
@@ -52,7 +52,7 @@ Wearable autonomous biomimetic MIP sensors for precision nutrition (<i><b>Nature
 
 <center>
 
-<img src="/images/research/crp-2.jpg" width="540">
+<img src="/research/crp-2.jpg" width="540">
 </center>
 
 <center><div style="color:orange; border-bottom: 1px solid #d9d9d9;display: inline-block;color: #999;padding: 8px;margin: 5px; margin-bottom: 30px"> 
@@ -67,7 +67,7 @@ systemic inflammation (<i><b>Nature Biomedical Engineering</b></i> 2023)
 
 <center>
 
-<img src="/images/research/sweat.jpg" width="600">
+<img src="/research/sweat.jpg" width="600">
 </center>
 
 ***Nature Biotechnology, 2020; Nature Biomedical Engineering, 2022; Nature Biomedical Engineering, 2023; Matter 2020.***
@@ -81,7 +81,7 @@ systemic inflammation (<i><b>Nature Biomedical Engineering</b></i> 2023)
 
 <center>
 
-<img src="/images/research/teng-2.jpg" width="540">
+<img src="/research/teng-2.jpg" width="540">
 </center>
 
 <center><div style="color:orange; border-bottom: 1px solid #d9d9d9;display: inline-block;color: #999;padding: 8px;margin: 5px; margin-bottom: 30px"> 
@@ -93,7 +93,7 @@ Wireless Battery-free Wearable Sweat Sensor Powered by Human Motion (<i><b>Scien
 
 <center>
 
-<img src="/images/research/bfc-2.jpg" width="540">
+<img src="/research/bfc-2.jpg" width="540">
 </center>
 
 <center><div style="color:orange; border-bottom: 1px solid #d9d9d9;display: inline-block;color: #999;padding: 8px;margin: 5px; margin-bottom: 30px"> 
@@ -104,7 +104,7 @@ Biofuel-powered soft electronic skin for wireless sensing and human-machine inte
 </div> </center>
 
 <center>
-<img src="/images/research/sc.jpg" width="540">
+<img src="/research/sc.jpg" width="540">
 </center>
 
 
