@@ -15,19 +15,6 @@ image:
     caption: Unsplash.com
     caption_url: http://unsplash.com
 ---
-*Feeling Responsive* shows metadata by default. The default behaviour can be changed via `config.yml`. To show metadata at th to front matter:
-<!--more-->
-
-~~~
-show_meta: true
-~~~
-
-If you don't want to show metadata, it's simple again:
-
-~~~
-show_meta: false
-~~~
-
 ## News	
 
 - 2024/02: My first-author paper on wearable multimodal biosensors for AI-reinforced stress assessment was published at ***[Nature Electronics](https://www.nature.com/articles/s41928-023-01116-6)***.
@@ -56,7 +43,68 @@ show_meta: false
 
 <br>
 
-## Other Post Formats
+## Invited Talks [<a href="#">TOP</a>]	
 
-{: .t60 }
-{% include list-posts tag='post format' %}
+
+
+* 2024/02: Shenzhen University, Biomedical Engineering, Shenzhen.
+
+
+* 2024/02: Hong Kong University of Science and Technology, Mechanical Engineering, Hong Kong.
+
+
+* 2024/01: National University of Singapore, Biomedical Engineering, Singapore.
+
+
+* 2024/12: The University of Hong Kong, Biomedical Engineering, Hong Kong.
+
+
+* 2024/01: The Chinese University of Hong Kong, Biomedical Engineering, Hong Kong.
+
+
+* 2023/12: Southeast University, Electrical Engineering, Nanjing.
+
+
+* 2023/12: Westlake University, Biomedical Engineering, Hangzhou.
+
+
+* 2023/11: City University of Hong Kong, Biomedical Engineering, Hong Kong.
+
+* 2023/11: National University of Singapore, Materials Science & Engineering, Singapore.
+
+
+* 2021/12: Beijing Institute of Nanoenergy and Nanosystems, Virtual.
+
+
+* 2021/11: iCANX Talks-Breaker, Virtual.
+
+
+* 2021/04: Nanyang Technological University, Materials Science & Engineering, Singapore.
+
+
+* 2021/04: National University of Singapore, Electrical & Computer Engineering, Singapore.
+
+
+* 2020/12: Sun Yat-sen University, Electronic & Information Technology, Virtual.
+
+
+* 2020/12: Huazhong University of Science & Technology, Electrical Engineering, Wuhan.
+
+
+* 2020/12: Shenzhen University, Optical Electronic Engineering, Shenzhen.
+
+
+* 2020/10: Shandong University, QiLu Youth Forum, Jinan.
+
+
+* 2020/10: Beijing Jiaotong University, Electrical Engineering, Beijing.
+
+
+* 2020/09: University of Electronic Science & Technology of China, Flexible Electronics, Chengdu.
+
+<br>
+
+<div id="backtop">
+  <b> <a href="#">TOP</a> </b>
+</div> 
+
