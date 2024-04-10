@@ -7,8 +7,6 @@ categories:
 header:
    image_fullwidth: header_unsplash_leaf.jpg
 ---
-### [View Google Scholar Profile](https://scholar.google.com.hk/citations?user=lDml1SkAAAAJ&hl=en)&emsp;&emsp;[[Books]](#Books) 
-
 ## <center>Wearable bioelectronics for personalized healthcare</center>
 
 <center>
@@ -20,7 +18,6 @@ header:
 
 <center>
 
-
 <img src="/research/bioelec.jpg" width="720">
 
 </center>
@@ -30,7 +27,7 @@ header:
 <summary><h2>I. Skin-interfaced sweat biosensors◥</h2></summary>
 
 <center>
-<img src="/images/research/laser.jpg" width="540" margin="30">
+<img src="/research/laser.jpg" width="540" margin="30">
 </center>
 
 
@@ -177,7 +174,6 @@ Perovskite solar cells-powered autonomous wearable biosensor (<i><b>Nature Elect
 ## IV. Epidermal/implantable electronics
 
 <center>
-
 
 <img src="/images/research/wound.jpg" width="600">
 </center>
