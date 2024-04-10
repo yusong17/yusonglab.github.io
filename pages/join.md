@@ -7,31 +7,11 @@ permalink           : "/join/"
 header:
    image_fullwidth: header_unsplash_leaf.jpg
 ---
+### <center>We are looking for talented and motivated postdoctoral scholars, Ph.D. students, undergraduate students, research assistants to join us! Please contact Dr. Yu Songby **[EMAIL](mailto:yusong@cityu.edu.hk)** if you are interested.</center>
+
 ### Postdoctoral Scholar (1-2 positions for Fall 2024)
 
-**Requirements:**
-
-- Younger than 35, received the Ph.D. degree within 3 years
-- Ph.D. degree in electrical engineering, biomedical engineering, materials science and engineering, chemical engineering, mechanical engineering, or other related fields
-- Strong publication record
-- We prefer applicants with the expertise in **biosensors,** **embedded system, machine learning,** and **finite element analysis**
-
-**Benefits:**
-
-- Pre-tax yearly income >**400,000 RMB** for applicants with Boya Postdoctoral Fellowship
-- Registered permanent residence in Beijing
-- Opportunities to apply grants from the National Natural Science Foundation and other funding agencies
-- Opportunities to promote to senior research positions at Peking University
-- Children of postdocs can attend the kindergarten and primary school affiliated to Peking University
-
-**Principal Responsibilities:**
-
-- Lead projects related to wearable and/or implantable devices
-- Publish research work in reputable journals
-- Present research work in domestic and international conferences
-- Provide technical support and mentorship to graduate and undergraduate students
-
-Postdoc applicants should normally obtain Ph.D. degree soon or no longer than 3 years in related fields and have strong research experience and acknowledged outcomes. The candidate could collaborate with the PI to develop research, conduct experiments and manage the lab with good capability in communication, responsibility, and English oral/writing. The funded candidate could apply the funding from different sources and a competitive salary will be offered.
+Postdoc applicants should normally obtain Ph.D. degree soon or no longer than 3 years in related fields (younger than 35) and have strong research experience and acknowledged outcomes. The candidate could collaborate with the PI to develop research, conduct experiments and manage the lab with good capability in communication, responsibility, and English oral/writing. The funded candidate could apply the funding from different sources and a competitive salary will be offered.
 
 ### Ph.D. Student (2-3 positions for Spring/Fall 2025 enrollment)
 
@@ -41,12 +21,12 @@ Ph.D. applicants should graduate from renowned Universities with a bachelor’s 
 
 We welcome undergrads from all backgrounds at CityU to participate in our latest multidisciplinary research projects. Please contact Dr. Yu Song by **[EMAIL](mailto:yusong@cityu.edu.hk)** if you are interested. Project areas include but not limited to:
 
-- wearable biosensors
+- multimodl wearable biosensors
 - additive manufacturing
 - self-powered bioelectronics
 - data analytics and machine learning
 
-#### Research Assistant / Visiting Student (1-2 positions for Fall 2024)
+### Research Assistant / Visiting Student (1-2 positions for Fall 2024)
 
 Research assistant applications should obtain the BSc or MSc degree and are required to fully work continuously no less than half years. The candidate could assist PI to deal with research projects and lab maintenance, and are recommended to pursue Ph.D. degree at the lab or overseas with great performance. The salary could be negotiated after the interview with additional allowance.
 
