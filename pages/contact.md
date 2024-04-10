@@ -1,9 +1,8 @@
 ---
-layout              : page-fullwidth
+layout              : page
 title               : "Contact"
 meta_title          : "Contact"
 subheadline         : "Yu Song Lab @ CityU"
-teaser              : "xxxx"
 permalink           : "/contact/"
 ---
 ### Dr. Yu Song
