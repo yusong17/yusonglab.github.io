@@ -3,65 +3,65 @@
     <style>
       .wrappku{
         margin: 0 auto;
-        width: 640px;
-        height: 360px;
+        width: 480px;
+        height: 270px;
         background-color: white;
         overflow: hidden;
-	position: relative;
+    position: relative;
       }
       .boxpku{
-        width: calc(640px*6);
+        width: calc(480px*6);
         animation: swiperpku 15s linear infinite;
       }
       .pku{
         float: left;
-        width: 640px;
-	height: 360px;
+        width: 480px;
+    		height: 270px;
       }
       @keyframes swiperpku{
         0% {
           transform: translateX(0);
         }
         6% {
-          transform: translateX(-640px);
+          transform: translateX(-480px);
         }
         20% {
-          transform: translateX(-640px);
+          transform: translateX(-480px);
         }
         26% {
-          transform: translateX(-1280px);
+          transform: translateX(-960px);
         }       
         40% {
-          transform: translateX(-1280px);
+          transform: translateX(-960px);
         }    
         46% {
-          transform: translateX(-1920px);
+          transform: translateX(-1440px);
         }
         60% {
+          transform: translateX(-1440px);
+        }
+    66% {
           transform: translateX(-1920px);
         }
-	66% {
-          transform: translateX(-2560px);
-        }
         80% {
-          transform: translateX(-2560px);
+          transform: translateX(-1920px);
         }
-	86% {
-          transform: translateX(-3200px);
+    86% {
+          transform: translateX(-2400px);
         }
         100% {
-          transform: translateX(-3200px);
+          transform: translateX(-2400px);
         }
       }
     </style>
-
+    
     <div class="wrappku">
       <div class="boxpku">
         <img src="/images/pku-5.jpg" class="pku" width="100%">
         <img src="/images/pku-1.jpg" class="pku" width="100%">
         <img src="/images/pku-2.jpg" class="pku" width="100%">
-	<img src="/images/pku-3.jpg" class="pku" width="100%">
-	<img src="/images/pku-4.jpg" class="pku" width="100%">
+    		<img src="/images/pku-3.jpg" class="pku" width="100%">
+    		<img src="/images/pku-4.jpg" class="pku" width="100%">
         <img src="/images/pku-5.jpg" class="pku" width="100%">
       </div>
     </div>

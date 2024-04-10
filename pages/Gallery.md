@@ -25,6 +25,8 @@ header:
   </div>
 </div>
 
+<br>
+
 <div class="row">
   <div class="large-6 columns">
       <center>
@@ -39,6 +41,8 @@ header:
     </center>
   </div>
 </div>
+
+<br>
 
 <div class="row">
   <div class="large-6 columns">
