@@ -5,7 +5,7 @@ meta_title          : "Lab members"
 subheadline         : "Yu Song Lab @ CityU"
 permalink           : "/members/"
 header:
-   image_fullwidth: header-bus.jpg
+   image_fullwidth: usa-2.jpg
 ---
 
 <br>
@@ -15,7 +15,7 @@ header:
       <img src="https://yusong17.github.io/yusonglab.github.io/images/drsong.png">
   </div>
   <div class="large-8 columns">
-    <p style="font-size:24px">
+    <p style="font-size:22px">
       <b>Yu Song, Ph.D. <u><a href="https://yusong17.github.io/mypaper/CV-Yu Song.pdf">CV</a></u> Bio</b><br>
         Presidential Assistant Professor<br>
         Department of Biomedical Engineering<br>

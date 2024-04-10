@@ -9,7 +9,7 @@ tags:
     - post format
 permalink: "/awards/"
 header:
-   image_fullwidth: header_unsplash_leaf.jpg
+   image_fullwidth: pku-1.jpg
 ---
 <div style="display: flex;">
 <div style="flex: 2; border: 1px solid white; margin: 1px; padding: 1px;">
