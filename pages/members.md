@@ -9,3 +9,14 @@ header:
 ---
 
 Hello
+
+<div class="row">
+  <div class="large-4 columns">
+      <img src="/images/drsong.png">
+  </div>
+  <div class="large-8 columns">
+      <center>
+        hello
+    </center>
+  </div>
+</div>
