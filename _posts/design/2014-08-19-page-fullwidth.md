@@ -13,15 +13,15 @@ header:
 
 ### Journal Articles
 
-​	55. C Xu†, **Yu Song†**, J Sempionatto†, S Solomon†, Y Yu, H Nyein, R Tay, J Li, A Lao, T Hsiai, J Sumner, W Gao\*, [An artificial intelligence-reinforced physicochemical sensing electronic skin for stress response monitoring](https://www.nature.com/articles/s41928-023-01116-6), ***Nature Electronics***, 2024, 7, 168-179. [**Download PDF**](https://yusong17.github.io/yusonglab.github.io/mypaper/nel.pdf).
+​	55. C Xu†, **Yu Song†**, J Sempionatto†, S Solomon†, Y Yu, H Nyein, R Tay, J Li, A Lao, T Hsiai, J Sumner, W Gao\*, [An artificial intelligence-reinforced physicochemical sensing electronic skin for stress response monitoring](https://www.nature.com/articles/s41928-023-01116-6), ***Nature Electronics***, 2024, 7, 168-179. [**Download PDF**](https://yusong17.github.io/mypaper/nel.pdf).
 
 *Highlighted in "[Stress monitoring with wearable technology and AI](https://www.nature.com/articles/s41928-024-01128-w)", Nature Electronics, 2024, 7, 98-99.*
 
-​	54. **Yu Song†**, R Tay†, J Li, C Xu, J. Min, E Sani, G Kim, W Heng, I Kim, W Gao\*. [3D-printed epifluidic electronic skin for machine learning-powered multimodal health surveillance](https://www.science.org/doi/full/10.1126/sciadv.adi6492), ***Science Advances***, 2023, 9, eadi6492. [**Download PDF**](https://yusong17.github.io/yusonglab.github.io/mypaper/sa-2.pdf).
+​	54. **Yu Song†**, R Tay†, J Li, C Xu, J. Min, E Sani, G Kim, W Heng, I Kim, W Gao\*. [3D-printed epifluidic electronic skin for machine learning-powered multimodal health surveillance](https://www.science.org/doi/full/10.1126/sciadv.adi6492), ***Science Advances***, 2023, 9, eadi6492. [**Download PDF**](https://yusong17.github.io/mypaper/sa-2.pdf).
 
 *Highlighted in Science.org, Science Advances, [IEEE Spectrum](https://spectrum.ieee.org/energy-harvesting-wearable-tech), [Phys.org](https://phys.org/news/2023-09-scientists-3d-printed-epifluidic-electronic-skin.html), [THE SCIENCE TIMES](https://www.sciencetimes.com/articles/46264/20230929/3d-printed-epifluidic-electronic-skin-developed-scientists-multimodal-health-surveillance.htm), etc.*
 
-​	53. R Tay†,  **Yu Song†**, D Yao, W Gao\*. [Direct-ink-writing 3D-printed bioelectronics](https://doi.org/10.1016/j.mattod.2023.09.006), ***Materials Today***, 2023, 71, 135-151. [**Download PDF**](https://yusong17.github.io/yusonglab.github.io/mypaper/mt.pdf).
+​	53. R Tay†,  **Yu Song†**, D Yao, W Gao\*. [Direct-ink-writing 3D-printed bioelectronics](https://doi.org/10.1016/j.mattod.2023.09.006), ***Materials Today***, 2023, 71, 135-151. [**Download PDF**](https://yusong17.github.io/mypaper/mt.pdf).
 
 *Highlighted Paper: Materials Today Rising Star Award Contribution.*
 
@@ -29,7 +29,7 @@ header:
 
 *Highlighted in "[Continuous sweat monitoring on the go](https://www.nature.com/articles/s41928-023-01017-8)", Nature Electronics, 2023, 6, 557-558.*
 
-*Featured on [**Journal Cover**](https://yusong17.github.io/yusonglab.github.io/mypaper/jihong-nel-cover.pdf).*
+*Featured on [**Journal Cover**](https://yusong17.github.io/mypaper/jihong-nel-cover.pdf).*
 
 ​	51. J Tu, J Min, **Yu Song**, C Xu, J Li, J Moore, J Hanson, E Hu, T Parimon, T Wang, E Davoodi, T Chou, P Chen, J Hsu, H Rossiter, W Gao\*. [A wireless patch for the monitoring of C-reactive protein in sweat](https://www.nature.com/articles/s41551-023-01059-5), ***Nature Biomedical Engineering***, 2023, 7, 1293-1306. **[Download PDF](https://yusong17.github.io/mypaper/jb-nbme.pdf)**.
 
