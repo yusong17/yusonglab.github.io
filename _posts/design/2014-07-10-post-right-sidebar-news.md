@@ -9,14 +9,9 @@ tags:
     - post format
 categories:
     - design
-image:
-    thumb: gallery-example-2-thumb.jpg
-    title: gallery-example-2.jpg
-    caption: Unsplash.com
-    caption_url: http://unsplash.com
+header:
+   image_fullwidth: header_unsplash_leaf.jpg
 ---
-## News	
-
 - 2024/02: My first-author paper on wearable multimodal biosensors for AI-reinforced stress assessment was published at ***[Nature Electronics](https://www.nature.com/articles/s41928-023-01116-6)***.
 
 
@@ -43,9 +38,9 @@ image:
 
 <br>
 
-## Invited Talks [<a href="#">TOP</a>]	
+## Invited Talks
 
-
+<br>
 
 * 2024/02: Shenzhen University, Biomedical Engineering, Shenzhen.
 
