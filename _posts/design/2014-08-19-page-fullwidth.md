@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title:  "The Full-Width Page Template"
+title:  "yuyuyu Full-Width Page Template"
 subheadline:  "Multi-Device Layouts"
 teaser: "The full-width page format gives you all the space you need to show your content using the grid."
 categories:
@@ -19,7 +19,7 @@ header:
     <div class="medium-4 columns t30">
       <img src="{{ site.urlimg }}gallery-example-5.jpg" alt="">
     </div><!-- /.medium-4.columns -->
-
+    
     <div class="medium-4 columns t30">
       <img src="{{ site.urlimg }}gallery-example-6.jpg" alt="">
     </div><!-- /.medium-4.columns -->
@@ -41,4 +41,4 @@ header:
 
 
 
- [1]: http://foundation.zurb.com/docs/components/grid.html
+[1]: http://foundation.zurb.com/docs/components/grid.html

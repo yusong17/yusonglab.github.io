@@ -9,6 +9,15 @@ header:
    image_fullwidth: header_unsplash_leaf.jpg
 ---
 *Feeling Responsive* is built on Foundation. And of course, we make use of the wonderful grid system and so can you. Find out more about [constructing  beautiful layouts][1] in the foundation documentation.
+
+[[Journal]](#Journal)&emsp;&emsp;[[Book]](#Books) &emsp;&emsp;[[Conference](#Conference)]
+
+
+
+
+
+
+
 <!--more-->
 
 <div class="row">
