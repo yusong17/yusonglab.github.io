@@ -1,6 +1,6 @@
 ---
 layout: page
-sidebar: news
+sidebar: awards
 subheadline: Yu Song Lab @ CityU
 title:  "Awards & Honors"
 breadcrumb: false
