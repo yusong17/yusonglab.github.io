@@ -7,7 +7,7 @@ permalink           : "/join/"
 header:
    image_fullwidth: header_unsplash_leaf.jpg
 ---
-#### <center>We are looking for talented and motivated postdoctoral scholars, Ph.D. students, undergraduate students, research assistants to join us! Please contact Dr. Yu Song by EMAIL if you are interested.</center>
+#### We are looking for talented and motivated postdoctoral scholars, Ph.D. students, undergraduate students, research assistants to join us! Please contact Dr. Yu Song by EMAIL if you are interested.
 
 ### Postdoctoral Scholar (1-2 positions starting Fall 2024)
 
@@ -31,8 +31,8 @@ We welcome undergrads from all backgrounds at CityU to participate in our latest
 Research assistant applications should obtain the BSc or MSc degree and are required to fully work continuously no less than half years. The candidate could assist PI to deal with research projects and lab maintenance, and are recommended to pursue Ph.D. degree at the lab or overseas with great performance. The salary could be negotiated after the interview with additional allowance.
 
 ```html
-<div style="font-size:18px;">
-<p>Please send the email to <b>Dr. Song (yusong at cityu.edu.hk)</b> with the following title: [PhD inquiry or Postdoc inquiry]-[Your name]-[Your current institution]. Relevant documents are required, including CV (with full list of publications), representative papers in combined one pdf, research statement, introduction PPT for the research, contact information of at least two referees, and copy of degree certificate (Postdoc applicants)/transcript (Ph.D./RA/Visiting applicants). All the positions are long-term available and shortlisted candidates will be notified soon.</p>
-</div>
+<font size= 5>
+Please send the email to <b>Dr. Song (yusong at cityu.edu.hk)</b> with the following title: [PhD inquiry or Postdoc inquiry]-[Your name]-[Your current institution]. Relevant documents are required, including CV (with full list of publications), representative papers in combined one pdf, research statement, introduction PPT for the research, contact information of at least two referees, and copy of degree certificate (Postdoc applicants)/transcript (Ph.D./RA/Visiting applicants). All the positions are long-term available and shortlisted candidates will be notified soon.
+</font>
 ```
 
