@@ -1,7 +1,11 @@
 ---
 layout              : page
 title               : "Contact"
+<<<<<<< HEAD
 meta_title          : "Contact"
+=======
+meta_title          : "Welcome"
+>>>>>>> 15cf43784c6f0519a843fa5c9e590413c9f12b58
 subheadline         : "Yu Song Lab @ CityU"
 permalink           : "/contact/"
 ---
