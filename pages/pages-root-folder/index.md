@@ -10,7 +10,7 @@ header:
 widget1:
   title: "New journal just begins"
   url: 'https://yusong17.github.io/yusonglab.github.io/members/'
-  image: hk-303.jpg
+  image: cityu-303.jpg
   text: 'Dr. Yu Song will join Department of Biomedical Engineering at City University of Hong Kong as a <b>Presidential Assistant Professor</b> in July 2024.'
 widget2:
   title: "We are hiring !"
