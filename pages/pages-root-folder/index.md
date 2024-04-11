@@ -8,20 +8,19 @@ layout: frontpage
 header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
-  title: "Welcome to Yu Song Lab"
-  url: 'https://yusong17.github.io/yusonglab.github.io/blog/'
+  title: "New Journal just begins"
+  url: 'https://yusong17.github.io/yusonglab.github.io/members/'
   image: widget-1-302x182.jpg
-  text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
+  text: 'Dr. Yu Song will join Department of Biomedical Engineering at City University of Hong Kong as a <b>Presidential Assistant Professor</b>.'
 widget2:
-  title: "Why use this theme?"
-  url: 'https://yusong17.github.io/yusonglab.github.io/info/'
-  text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="https://yusong17.github.io/yusonglab.github.io/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
+  title: "We are hiring!"
+  url: 'https://yusong17.github.io/yusonglab.github.io/join/'
+  text: 'We always welcome talented postdoctoral and graduate candidates. Interested students are encouraged to contact Dr. Song by email.'
 widget3:
-  title: "Download Theme"
-  url: 'https://yusong17.github.io/yusonglab.github.io/'
+  title: "Bioelectronics for healthcare"
+  url: 'https://yusong17.github.io/yusonglab.github.io/research/'
   image: widget-github-303x182.jpg
-  text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. The code is well-documented and explains you how it works.'
+  text: 'We are working on xxxx The code is well-documented and explains you how it works.'
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -44,9 +43,14 @@ permalink: /index.html
 homepage: true
 ---
 
-<div id="videoModal" class="reveal-modal large" data-reveal="">
-  <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
+<div class="row">
+  <div class="large-6 columns">
+    <b>Recent publications</b>
+      <br>
+  </div>   
+  <div class="large-6 columns">
+    <b>Group news</b>
+      <br>
   </div>
-  <a class="close-reveal-modal">&#215;</a>
 </div>
+
