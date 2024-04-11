@@ -57,12 +57,12 @@ homepage: true
   <div class="large-6 columns">
     <b><h3>Group news</h3></b><br>
     <b>2024</b><br>
-    Feb, Yu's first-author paper on wearable multimodal biosensors for AI-reinforced stress assessment was published at <b><i>Nature Electronics</i></b>. <u><a href="https://www.nature.com/articles/s41928-023-01116-6">Link</a></u><br><h7> </h7><br>
+    Feb, Yu's first-author paper on multimodal biosensors for AI-reinforced stress assessment was published at <b><i>Nature Electronics</i></b>. <u><a href="https://www.nature.com/articles/s41928-023-01116-6">Link</a></u><br><h8> </h8><br>
     <center> <img src="images/logo/nel.jpg" width="200"> </center><br>
     <b>2023</b><br>
     Oct, Yu was recognized as one of the <b>World's Top 2% Scientists</b> by Stanford University and Elsevier Scopus. See <u><a href="https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/6">full list</a></u><br><h8> </h8><br>
     <center> <img src="images/logo/2023scientist.png" width="200"> </center><br>
-    Sep, Yu's first-author paper on 3D-printed electronic skin for ML-powered health surveillance was published at <b><i>Science Advances</i></b>. <u><a href="https://www.science.org/doi/full/10.1126/sciadv.adi6492">Link</a></u><br><h7> </h7><br>
+    Sep, Yu's first-author paper on 3D-printed electronic skin for ML-powered health surveillance was published at <b><i>Science Advances</i></b>. <u><a href="https://www.science.org/doi/full/10.1126/sciadv.adi6492">Link</a></u><br><h8> </h8><br>
     <center> <img src="images/logo/sa.png" width="200"> </center><br>
   </div>
 </div>
