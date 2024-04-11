@@ -27,6 +27,7 @@ header:
   </div>
 </div>
 
+
 <br>
 
 <div class="row">
@@ -51,8 +52,8 @@ header:
 <div class="row">
   <div class="large-6 columns">
     <center>
-      <img src="https://yusong17.github.io/yusonglab.github.io/images/2019-alice-wei.jpg">
-      <br><br>
+      {% include photo-alice.html %}
+      <br>
       <b>With Alice and Wei @ Caltech, Dec 2019.</b>
     </center>
   </div>
