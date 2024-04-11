@@ -10,17 +10,17 @@ header:
 widget1:
   title: "New journal just begins"
   url: 'https://yusong17.github.io/yusonglab.github.io/members/'
-  image: widget-1-302x182.jpg
+  image: hk-303.jpg
   text: 'Dr. Yu Song will join Department of Biomedical Engineering at City University of Hong Kong as a <b>Presidential Assistant Professor</b> in July 2024.'
 widget2:
   title: "We are hiring !"
   url: 'https://yusong17.github.io/yusonglab.github.io/join/'
-  image: hiring-303.jpg
+  image: hiring-2-303.jpg
   text: 'We always welcome talented postdoctoral and graduate candidates. Interested students are encouraged to contact Dr. Song by email (xxx@cityu.edu.hk).'
 widget3:
   title: "Our research scope"
   url: 'https://yusong17.github.io/yusonglab.github.io/research/'
-  image: widget-github-303x182.jpg
+  image: hiring-303.jpg
   text: 'We are working on wearable bioelectronics, sweat biosensors, additive manufacturing, and digital medicine for AI-powrered personalized healthcare.'
 #
 # Use the call for action to show a button on the frontpage
