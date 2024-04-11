@@ -41,7 +41,7 @@ Wearable autonomous biomimetic MIP sensors for precision nutrition (<i><b>Nature
   <img src="/research/crp-2.jpg" width="540">
 </center>
 <center><div style="color:orange; border-bottom: 1px solid #d9d9d9;display: inline-block;color: #999;padding: 8px;margin: 5px; margin-bottom: 30px"> 
-Wearable nanobiosensor for non-invasive, and wireless monitoring of
+Wearable nanobiosensor for non-invasive and wireless monitoring of
 systemic inflammation (<i><b>Nature Biomedical Engineering</b></i> 2023, 7, 1293-1306)
 
 </div> </center>

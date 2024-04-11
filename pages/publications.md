@@ -11,7 +11,7 @@ header:
 
 <br>
 
-​	55. C Xu†, **Yu Song†**, J Sempionatto†, S Solomon†, Y Yu, H Nyein, R Tay, J Li, A Lao, T Hsiai, J Sumner, W Gao\*, [An artificial intelligence-reinforced physicochemical sensing electronic skin for stress response monitoring](https://www.nature.com/articles/s41928-023-01116-6), ***Nature Electronics***, 2024, 7, 168-179. [**Download PDF**](https://yusong17.github.io/mypaper/nel.pdf). 
+​	55. C Xu†, **Yu Song†**, J Sempionatto†, S Solomon†, Y Yu, H Nyein, R Tay, J Li, A Lao, T Hsiai, J Sumner, W Gao\*. [An artificial intelligence-reinforced physicochemical sensing electronic skin for stress response monitoring](https://www.nature.com/articles/s41928-023-01116-6), ***Nature Electronics***, 2024, 7, 168-179. [**Download PDF**](https://yusong17.github.io/mypaper/nel.pdf). 
 
 *Highlighted in "[Stress monitoring with wearable technology and AI](https://www.nature.com/articles/s41928-024-01128-w)", Nature Electronics, 2024, 7, 98-99.*
 
@@ -19,7 +19,7 @@ header:
 
 *Highlighted in Science.org, Science Advances, [IEEE Spectrum](https://spectrum.ieee.org/energy-harvesting-wearable-tech), [Phys.org](https://phys.org/news/2023-09-scientists-3d-printed-epifluidic-electronic-skin.html), [THE SCIENCE TIMES](https://www.sciencetimes.com/articles/46264/20230929/3d-printed-epifluidic-electronic-skin-developed-scientists-multimodal-health-surveillance.htm), etc.*
 
-​	53. R Tay†,  **Yu Song†**, D Yao, W Gao\*. [Direct-ink-writing 3D-printed bioelectronics](https://doi.org/10.1016/j.mattod.2023.09.006), ***Materials Today***, 2023, 71, 135-151. [**Download PDF**](https://yusong17.github.io/mypaper/mt.pdf).
+​	53. R Tay†, **Yu Song†**, D Yao, W Gao\*. [Direct-ink-writing 3D-printed bioelectronics](https://doi.org/10.1016/j.mattod.2023.09.006), ***Materials Today***, 2023, 71, 135-151. [**Download PDF**](https://yusong17.github.io/mypaper/mt.pdf).
 
 *Highlighted Paper: Materials Today Rising Star Award Contribution.*
 
