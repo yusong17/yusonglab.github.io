@@ -18,7 +18,7 @@ widget2:
   image: widget-1-302x182.jpg
   text: 'We always welcome talented postdoctoral and graduate candidates. Interested students are encouraged to contact Dr. Song by email (xxx@cityu.edu.hk).'
 widget3:
-  title: "Bioelectronics for healthcare"
+  title: "Personalized healthcare"
   url: 'https://yusong17.github.io/yusonglab.github.io/research/'
   image: widget-github-303x182.jpg
   text: 'We are working on xxxx The code is well-documented and explains you how it works.'
@@ -50,7 +50,8 @@ homepage: true
       <br>
   </div>   
   <div class="large-6 columns">
-    <b><h2>Group news</h2></b>
+    <b><h3>Group news</h3></b>
       <br>
   </div>
 </div>
+
