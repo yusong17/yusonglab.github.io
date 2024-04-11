@@ -13,7 +13,7 @@ widget1:
   image: widget-1-302x182.jpg
   text: 'Dr. Yu Song will join Department of Biomedical Engineering at City University of Hong Kong as a <b>Presidential Assistant Professor</b> in July 2024.'
 widget2:
-  title: "We are hiring!"
+  title: "We are hiring !"
   url: 'https://yusong17.github.io/yusonglab.github.io/join/'
   image: widget-1-302x182.jpg
   text: 'We always welcome talented postdoctoral and graduate candidates. Interested students are encouraged to contact Dr. Song by email (xxx@cityu.edu.hk).'
