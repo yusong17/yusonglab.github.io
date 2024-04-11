@@ -48,6 +48,8 @@ homepage: true
   <div class="large-6 columns">
     <b><h3>Recent publications</h3></b>
       <br>
+    C Xu†, <b>Yu Song†</b>, J Sempionatto†, S Solomon†, Y Yu, H Nyein, R Tay, J Li, A Lao, T Hsiai, J Sumner, W Gao*, <a href="https://www.nature.com/articles/s41928-023-01116-6">An artificial intelligence-reinforced physicochemical sensing electronic skin for stress response monitoring</a>, <i><b>Nature Electronics</b></i>, 2024, 7, 168-179.<br>
+    xxxxxxx
   </div>   
   <div class="large-6 columns">
     <b><h3>Group news</h3></b>
