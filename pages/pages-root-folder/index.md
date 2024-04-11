@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_12.jpg
+  image_fullwidth: usa-6.jpg
 widget1:
   title: "New journal just begins"
   url: 'https://yusong17.github.io/yusonglab.github.io/members/'
