@@ -8,7 +8,7 @@ layout: frontpage
 header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
-  title: "New Journal just begins"
+  title: "New journal just begins"
   url: 'https://yusong17.github.io/yusonglab.github.io/members/'
   image: widget-1-302x182.jpg
   text: 'Dr. Yu Song will join Department of Biomedical Engineering at City University of Hong Kong as a <b>Presidential Assistant Professor</b> in July 2024.'
@@ -18,10 +18,10 @@ widget2:
   image: widget-1-302x182.jpg
   text: 'We always welcome talented postdoctoral and graduate candidates. Interested students are encouraged to contact Dr. Song by email (xxx@cityu.edu.hk).'
 widget3:
-  title: "Personalized healthcare"
+  title: "Our interests ~"
   url: 'https://yusong17.github.io/yusonglab.github.io/research/'
   image: widget-github-303x182.jpg
-  text: 'We are working on xxxx The code is well-documented and explains you how it works.'
+  text: 'We are working on wearable bioelectronics, sweat biosensors, additive manufacturing, and digital medicine for AI-powrered personalized healthcare.'
 #
 # Use the call for action to show a button on the frontpage
 #
