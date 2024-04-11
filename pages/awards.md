@@ -123,7 +123,8 @@ header:
 
 
 
-<div style="flex: 12; border: 1px solid white; margin: 1px; padding: 1px;">
+<div style="flex: 16; border: 1px solid white; margin: 1px; padding: 1px;">
+
 
 
 <p><b>Graduates with Honors</b>, Peking University</p></div>
@@ -149,11 +150,13 @@ header:
 <div style="display: flex;">
 
 
-<div style="flex: 2; border: 1px solid white; margin: 1px; padding: 1px;">
+<div style="flex: 3; border: 1px solid white; margin: 1px; padding: 1px;">
  <p><b>▪  </b>2019</p></div>
 
 
-<div style="flex: 12; border: 1px solid white; margin: 1px; padding: 1px;">
+
+<div style="flex: 16; border: 1px solid white; margin: 1px; padding: 1px;">
+
 
 
 <p><b>Nominee of Best Poster Prize</b>, 2019 MRS Spring Meeting</p></div>
@@ -163,11 +166,13 @@ header:
 <div style="display: flex;">
 
 
-<div style="flex: 2; border: 1px solid white; margin: 1px; padding: 1px;">
+<div style="flex: 3; border: 1px solid white; margin: 1px; padding: 1px;">
  <p><b>▪  </b>2018</p></div>
 
 
-<div style="flex: 12; border: 1px solid white; margin: 1px; padding: 1px;">
+
+<div style="flex: 16; border: 1px solid white; margin: 1px; padding: 1px;">
+
 
 
 <p><b>Academic Top 10 Graduate Student</b>, EECS, Peking University</p></div>
@@ -176,12 +181,12 @@ header:
 
 <div style="display: flex;">
 
-<div style="flex: 2; border: 1px solid white; margin: 1px; padding: 1px;">
+<div style="flex: 3; border: 1px solid white; margin: 1px; padding: 1px;">
  <p><b>▪  </b>2017/18</p></div>
 
 
 
-<div style="flex: 12; border: 1px solid white; margin: 1px; padding: 1px;">
+<div style="flex: 16; border: 1px solid white; margin: 1px; padding: 1px;">
 
 
 
@@ -192,11 +197,13 @@ header:
 <div style="display: flex;">
 
 
-<div style="flex: 2; border: 1px solid white; margin: 1px; padding: 1px;">
+<div style="flex: 3; border: 1px solid white; margin: 1px; padding: 1px;">
  <p><b>▪  </b>2017</p></div>
 
 
-<div style="flex: 12; border: 1px solid white; margin: 1px; padding: 1px;">
+
+<div style="flex: 16; border: 1px solid white; margin: 1px; padding: 1px;">
+
 
 
 <p><b>Best Poster Award</b>, MAN2017</p></div>
@@ -206,11 +213,13 @@ header:
 <div style="display: flex;">
 
 
-<div style="flex: 2; border: 1px solid white; margin: 1px; padding: 1px;">
+<div style="flex: 3; border: 1px solid white; margin: 1px; padding: 1px;">
  <p><b>▪  </b>2015</p></div>
 
 
-<div style="flex: 12; border: 1px solid white; margin: 1px; padding: 1px;">
+
+<div style="flex: 16; border: 1px solid white; margin: 1px; padding: 1px;">
+
 
 
 <p><b>Graduates with Honors</b>, HUST</p></div>
@@ -226,7 +235,7 @@ header:
 
 
 
-<div style="flex: 15; border: 1px solid white; margin: 1px; padding: 1px;">
+<div style="flex: 16; border: 1px solid white; margin: 1px; padding: 1px;">
 
 
 
@@ -237,11 +246,13 @@ header:
 <div style="display: flex;">
 
 
-<div style="flex: 2; border: 1px solid white; margin: 1px; padding: 1px;">
+<div style="flex: 3; border: 1px solid white; margin: 1px; padding: 1px;">
  <p><b>▪  </b>2012</p></div>
 
 
-<div style="flex: 12; border: 1px solid white; margin: 1px; padding: 1px;">
+
+<div style="flex: 16; border: 1px solid white; margin: 1px; padding: 1px;">
+
 
 
 <p><b>Excellent Award Student (Top 0.5%)</b>, HUST</p></div>
