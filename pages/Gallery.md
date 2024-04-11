@@ -13,8 +13,8 @@ header:
 <div class="row">
   <div class="large-6 columns">
       <center>
-    	<img src="/images/2023-new year.jpg" width = "480">
-      <br><br>
+    	{% include photo-gao.html %}
+      <br>
       <b>Happy new year to 2023!</b>
 			</center>
   </div>   
