@@ -164,6 +164,21 @@ header:
 
 <div style="display: flex;">
 
+<div style="flex: 2; border: 1px solid white; margin: 1px; padding: 1px;">
+ <p><b>▪  </b>2017/18</p></div>
+
+
+
+<div style="flex: 12; border: 1px solid white; margin: 1px; padding: 1px;">
+
+
+
+<p><b>National Scholarship for graduates</b>, Peking University</p></div>
+
+</div>
+
+<div style="display: flex;">
+
 
 <div style="flex: 2; border: 1px solid white; margin: 1px; padding: 1px;">
  <p><b>▪  </b>2017</p></div>
@@ -187,6 +202,23 @@ header:
 
 
 <p><b>Graduates with Honors</b>, HUST</p></div>
+
+</div>
+
+
+
+<div style="display: flex;">
+
+<div style="flex: 2; border: 1px solid white; margin: 1px; padding: 1px;">
+ <p><b>▪  </b>2012/13/14</p></div>
+
+
+
+<div style="flex: 12; border: 1px solid white; margin: 1px; padding: 1px;">
+
+
+
+<p><b>National Scholarship for undergraduates</b>, HUST</p></div>
 
 </div>
 
