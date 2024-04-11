@@ -11,11 +11,12 @@ widget1:
   title: "New Journal just begins"
   url: 'https://yusong17.github.io/yusonglab.github.io/members/'
   image: widget-1-302x182.jpg
-  text: 'Dr. Yu Song will join Department of Biomedical Engineering at City University of Hong Kong as a <b>Presidential Assistant Professor</b>.'
+  text: 'Dr. Yu Song will join Department of Biomedical Engineering at City University of Hong Kong as a <b>Presidential Assistant Professor</b> in July 2024.'
 widget2:
   title: "We are hiring!"
   url: 'https://yusong17.github.io/yusonglab.github.io/join/'
-  text: 'We always welcome talented postdoctoral and graduate candidates. Interested students are encouraged to contact Dr. Song by email.'
+  image: widget-1-302x182.jpg
+  text: 'We always welcome talented postdoctoral and graduate candidates. Interested students are encouraged to contact Dr. Song by email (xxx@cityu.edu.hk).'
 widget3:
   title: "Bioelectronics for healthcare"
   url: 'https://yusong17.github.io/yusonglab.github.io/research/'
@@ -45,12 +46,11 @@ homepage: true
 
 <div class="row">
   <div class="large-6 columns">
-    <b>Recent publications</b>
+    <b><h3>Recent publications</h3></b>
       <br>
   </div>   
   <div class="large-6 columns">
-    <b>Group news</b>
+    <b><h2>Group news</h2></b>
       <br>
   </div>
 </div>
-
