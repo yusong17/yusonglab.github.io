@@ -20,7 +20,7 @@ widget2:
 widget3:
   title: "Our research scope"
   url: 'https://yusong17.github.io/yusonglab.github.io/research/'
-  image: hiring-303.jpg
+  image: res-303.jpg
   text: 'We are working on wearable bioelectronics, sweat biosensors, additive manufacturing, and digital medicine for AI-powrered personalized healthcare.'
 #
 # Use the call for action to show a button on the frontpage
