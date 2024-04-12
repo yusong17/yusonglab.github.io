@@ -14,14 +14,14 @@ header:
   <div class="large-6 columns">
       <center>
     	{% include photo-gao.html %}
-      <br>
-      <b>Happy new year to 2023!</b>
+        <h5> </h5><br>
+    		<b>Happy new year to 2023!</b>
 			</center>
   </div>   
   <div class="large-6 columns">
     <center>
       {% include photo-usa.html %} 
-      <br>
+     	<h6> </h6><br>
       <b>Idyllic scenery in USA, 2018-2022.</b>
 		</center>
   </div>
