@@ -8,7 +8,7 @@ layout: frontpage
 header:
   image_fullwidth: usa-7.jpg
 widget1:
-  title: "New journal just begins"
+  title: "New journey just begins"
   url: 'https://yusong17.github.io/yusonglab.github.io/members/'
   image: cityu-303.jpg
   text: 'Dr. Yu Song will join Department of Biomedical Engineering at City University of Hong Kong as a <b>Presidential Assistant Professor</b> in July 2024.'
@@ -66,4 +66,3 @@ homepage: true
     <center> <img src="images/logo/sa.png" width="200"> </center><br>
   </div>
 </div>
-
