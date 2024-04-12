@@ -29,13 +29,13 @@ header:
 
 <br>
 
-### We are hiring !!!!
+### We are hiring !!!
 
 <br>
 
 <div class="row">
   <div class="large-3 columns">
-      Postdoc
+      Postdocs
   </div>
   <div class="large-3 columns">
       Ph.D. Students
@@ -47,3 +47,4 @@ header:
       Alumni
   </div>
 </div>
+
