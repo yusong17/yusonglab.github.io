@@ -59,4 +59,16 @@ format: post
 	</div><!-- /.medium-4.columns -->
 	{% endif %}
 
+{% if page.sidebar == "news" %}
+<div class="medium-4 columns">
+	{% include _sidebar_news.html %}
+</div><!-- /.medium-4.columns -->
+{% endif %}
+
+{% if page.sidebar == "awards" %}
+<div class="medium-4 columns">
+	{% include _sidebar_awards.html %}
+</div><!-- /.medium-4.columns -->
+{% endif %}
+
 </div><!-- /.row -->
