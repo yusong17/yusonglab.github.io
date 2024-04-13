@@ -66,7 +66,7 @@ homepage: true
     <b>2023</b><br>
     Oct, Dr. Song was recognized as one of the <b>World's Top 2% Scientists</b> by Stanford University and Elsevier Scopus. See <u><a href="https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/6">full list</a></u><br><h8> </h8><br>
     <center> <img src="images/logo/2023scientist.png" width="200"> </center><br>
-     Sep, Dr. Song's first-author paper on 3D-printed electronic skin for ML-powered health surveillance was published at <b><i>Science Advances</i></b>. <u><a href="https://www.science.org/doi/full/10.1126/sciadv.adi6492">Link</a></u><br><h8> </h8><br>
+     Sep, Dr. Song's first-author paper on 3D-printed system for ML-powered health surveillance was published at <b><i>Science Advances</i></b>. <u><a href="https://www.science.org/doi/full/10.1126/sciadv.adi6492">Link</a></u><br><h8> </h8><br>
     <center> <img src="images/logo/sa.png" width="200"> </center><br>
   </div>
 </div>
