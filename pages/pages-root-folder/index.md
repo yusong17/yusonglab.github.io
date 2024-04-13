@@ -16,7 +16,7 @@ widget2:
   title: "We are hiring !"
   url: 'https://yusong17.github.io/yusonglab.github.io/join/'
   image: hiring-2-303.jpg
-  text: 'The <b>Yu Song Lab @ CityU</b> will work on interdisciplinary field to tackle grand challenges towards personalized healthcare. Talented postdoctoral and graduate candidates with related background (including BME, EE, ME, ChemE, Chem, MSE, and others) are highly welcome and encouraged to contact Dr. Song by Email.'
+  text: 'The <b>Yu Song Lab @ CityU</b> will work on interdisciplinary field to tackle grand challenges towards personalized healthcare. Talented postdoctoral and graduate candidates with related background (including BME, EE, ME, ChemE, BioE, Chem, MSE, and others) are highly welcome and encouraged to contact Dr. Song by Email.'
 widget3:
   title: "Our research scope"
   url: 'https://yusong17.github.io/yusonglab.github.io/research/'
