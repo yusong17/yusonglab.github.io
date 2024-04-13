@@ -11,17 +11,17 @@ widget1:
   title: "New journey just begins"
   url: 'https://yusong17.github.io/yusonglab.github.io/members/'
   image: cityu-303.jpg
-  text: 'Dr. Yu Song will join Department of Biomedical Engineering at City University of Hong Kong as a <b>Presidential Assistant Professor</b> in July 2024.'
+  text: 'Dr. Song will join Department of Biomedical Engineering at City University of Hong Kong as a <b>Presidential Assistant Professor</b> in July 2024. Sincerely appreciate all the strong support from Alice, Wei, all the professors, colleagues, and friends along this journey. Extremely look forward to this new adventure with outstanding colleagues at CityU BME in HK!'
 widget2:
   title: "We are hiring !"
   url: 'https://yusong17.github.io/yusonglab.github.io/join/'
   image: hiring-2-303.jpg
-  text: 'We always welcome talented postdoctoral and graduate candidates. Interested students are encouraged to contact Dr. Song by email (xxx@cityu.edu.hk).'
+  text: 'The Yu Song Lab @ CityU will work on interdisciplinary field to tackle grand challenges towards personalized healthcare. We always welcome talented postdoctoral and graduate candidates from related background (including BME, EE, ME, ChemE, Chem, MSE, and others). Interested students are encouraged to contact Dr. Song by email (xxx@cityu.edu.hk).'
 widget3:
   title: "Our research scope"
   url: 'https://yusong17.github.io/yusonglab.github.io/research/'
   image: res-303.jpg
-  text: 'We are working on wearable bioelectronics, sweat biosensors, additive manufacturing, and digital medicine for AI-powrered personalized healthcare.'
+  text: 'We are devoted to developing bioelectronic devices, including <br>1. Skin-interfaced multimodal biosensors;<br>2. Additive manufacturing-assisted bioelectronics;<br>3. AI-powered health assessment;<br>4. Closed-loop digital medicine.'
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -43,6 +43,10 @@ permalink: /index.html
 #
 homepage: true
 ---
+
+
+
+
 
 <div class="row">
   <div class="large-6 columns">
@@ -66,3 +70,4 @@ homepage: true
     <center> <img src="images/logo/sa.png" width="200"> </center><br>
   </div>
 </div>
+

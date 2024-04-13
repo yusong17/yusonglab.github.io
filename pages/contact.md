@@ -11,9 +11,9 @@ header:
 
 ##### Email: xxx[at]cityu.edu.hk
 
-##### **Office: YEUNG**
+##### **Office: YEUNG** xxx
 
-##### **Phone:**
+##### **Tel:**
 
 ##### [Department of Biomedical Engineering](https://www.cityu.edu.hk/bme/)
 
