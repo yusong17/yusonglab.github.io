@@ -11,7 +11,7 @@ header:
 
 ### Postdoctoral Scholar (2+ positions starting Fall 2024)
 
-Postdoc applicants should normally obtain Ph.D. degree soon or no longer than 3 years in related fields (younger than 35) and have strong research experience and acknowledged outcomes. The candidate could collaborate with the PI to develop research, conduct experiments and manage the lab with good capability in communication, responsibility, and English oral/writing. The funded candidate could apply the funding from different sources and a competitive salary will be offered.
+Postdoc applicants should normally obtain Ph.D. degree soon or no longer than 3 years in related fields (younger than 35) and have strong research experience and acknowledged outcomes. The candidate could collaborate with the PI to develop research, conduct experiments and manage the lab with good capability in communication, responsibility, and English oral/writing. The candidate could also apply the funding from different sources and a competitive salary will be offered.
 
 ### Ph.D. Student (3+ positions starting Spring/Fall 2025)
 
