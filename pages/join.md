@@ -15,20 +15,20 @@ Postdoc applicants should normally obtain Ph.D. degree soon or no longer than 3 
 
 ### Ph.D. Student (3+ positions starting Spring/Fall 2025)
 
-Ph.D. applicants should graduate from renowned Universities with a bachelor’s or master’s degree in related fields. The candidate will be fully funded and have opportunities to apply for several fellowships, such as HKPFS with grants for research activities/conference. Check [**Here**](https://www.cityu.edu.hk/bme/prg-phdmphil.htm) for more details.
+Ph.D. applicants should graduate from renowned Universities with a bachelor’s or master’s degree with related background (including BME, EE, ME, ChemE, BioE, Chem, MSC, and others). The candidate will be fully funded (monthly salary: ~HK$ 18,000) and have opportunities to apply for several fellowships, such as HKPFS with grants for research activities/conference. Check [**Here**](https://www.cityu.edu.hk/bme/prg-phdmphil.htm) for more details.
 
 ### Undergraduate Student (multiple positions)
 
-We welcome undergrads from all backgrounds at CityU to participate in our latest multidisciplinary research projects. Please contact Dr. Yu Song by **[EMAIL](mailto:yusong@cityu.edu.hk)** if you are interested. Project areas include but not limited to:
+We welcome undergrads from all backgrounds at CityU to participate in our latest multidisciplinary research projects during the school year, final year, or in the summer. Please contact Dr. Yu Song by **[EMAIL](mailto:yusong@cityu.edu.hk)** if you are interested. Project areas include but not limited to:
 
-- multimodl wearable biosensors
+- multimodal wearable biosensors
 - additive manufacturing
 - self-powered bioelectronics
 - data analytics and machine learning
 
 ### Research Assistant / Visiting Student (2 positions starting Fall 2024)
 
-Research assistant applications should obtain the BSc or MSc degree and are required to fully work continuously no less than half years. The candidate could assist PI to deal with research projects and lab maintenance, and are recommended to pursue Ph.D. degree at the lab or overseas with great performance. The salary could be negotiated after the interview with additional allowance.
+Research assistant / visitng student applicants should obtain the BSc or MSc degree and are required to fully work continuously no less than half years. The candidate could assist PI to deal with research projects and lab maintenance, and are recommended to pursue Ph.D. degree at the lab or overseas with great performance. The salary could be negotiated after the interview with additional allowance.
 
 <br>
 
