@@ -7,7 +7,7 @@ permalink: "/publications/"
 header:
    image_fullwidth: pku-4.jpg
 ---
-### [View Google Scholar Profile](https://scholar.google.com.hk/citations?user=lDml1SkAAAAJ&hl=en)&emsp;&emsp;[[Books]](#Books)	[[Conference](#Conference)]
+### [View Google Scholar Profile](https://scholar.google.com.hk/citations?user=lDml1SkAAAAJ&hl=en)&emsp;&emsp;[[Books]](#Books)&emsp;&emsp;[[Conference]](#Conference)
 
 <br>
 

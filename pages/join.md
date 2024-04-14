@@ -33,5 +33,7 @@ Research assistant / visitng student applicants should obtain the BSc or MSc deg
 <br>
 
 <font size= 4>
-Please send the email to <b>Dr. Song (xxx at cityu.edu.hk)</b> with the following title: [PhD/Postdoc/UG/RA inquiry]-[Your name]-[Your current institution]. Relevant documents are required, including CV (with full list of publications), representative papers in combined one pdf, research statement, introduction slides for the research, contact information of at least two referees, and copy of degree certificate (Postdoc applicants)/transcript (Ph.D./RA/Visiting applicants). All the positions are long-term available and shortlisted candidates will be notified soon.
+Please send the email to <b>Dr. Song (xxx at cityu.edu.hk)</b> with the following title: [PhD/Postdoc/UG/RA inquiry]-[Your name]-[Your current institution]. Relevant documents are required, including **CV** (with full list of publications), **representative papers** in combined one pdf, **research statement** (postdoc applicants), **introduction slides** for the research, **contact information** of at least two referees, and copy of degree **certificate** (postdoc applicants)/**transcript** (Ph.D./RA/Visiting applicants). 
+
+**All the positions are long-term available and shortlisted candidates will be notified soon.**
 </font>
