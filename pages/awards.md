@@ -50,9 +50,9 @@ header:
  <p><b>▪   </b>2023</p></div>
 
 
-
 <div style="flex: 16; border: 1px solid white; margin: 1px; padding: 1px;">
-<p><b>World's Top 2% Scientist</b>, Stanford University & Elsevier-Scopus-<a href="https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/6">full list</a></p></div>
+<p><b>World's Top 2% Scientist</b>, Stanford University & Elsevier Scopus-<a href="https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/6">full list</a></p></div>
+
 
 
 
@@ -66,7 +66,7 @@ header:
 
 
 
-<p><b>World's Top 2% Scientist</b>, Stanford University & Elsevier-Scopus-<a href="https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/5">full list</a></p></div>
+<p><b>World's Top 2% Scientist</b>, Stanford University & Elsevier Scopus-<a href="https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/5">full list</a></p></div>
 
 </div>
 

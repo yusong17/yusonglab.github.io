@@ -135,7 +135,7 @@ Perovskite solar cells-powered autonomous wearable biosensor (<i><b>Nature Elect
 <center>
 <img src="/research/ml.jpg" width="600">
 </center>
-***Science Advances, 2023; Nature Electronics, 2023; Science Robotics, 2022.*** 
+***Science Advances, 2023; Nature Electronics, 2024; Science Robotics, 2022.*** 
 
 ## IV. Epidermal/implantable electronics
 

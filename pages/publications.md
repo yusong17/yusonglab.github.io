@@ -7,7 +7,7 @@ permalink: "/publications/"
 header:
    image_fullwidth: pku-4.jpg
 ---
-### [View Google Scholar Profile](https://scholar.google.com.hk/citations?user=lDml1SkAAAAJ&hl=en)&emsp;&emsp;[[Books]](#Books) 
+### [View Google Scholar Profile](https://scholar.google.com.hk/citations?user=lDml1SkAAAAJ&hl=en)&emsp;&emsp;[[Books]](#Books)	[[Conference](#Conference)]
 
 <br>
 
@@ -186,6 +186,50 @@ header:
 ​	2. **Yu Song**. Chapter 16: **Flexible Electronic Devices with Multi-Dimensional Perception**, in book *Frontier Technologies for Integrated Micro/Nano Systems*. Peking University, 2023. (Chinese)
 
 ​	1. **Yu Song**. Chapter 21: **Skin-Interfaced Sweat Biosensors**, in book *Frontier Technologies for Integrated Micro/Nano Systems*. Peking University, 2023. (Chinese)
+
+<span id="Conference">
+
+## Conference Articles
+
+<br>
+
+​	19. H Wang, Z Xiang, J Wan, **Yu Song,** H Zhang\*. Double-Sided Laser-Induced Graphene Based Smart Bracelet for Sensing and Energy,  IEEE International Conference on Micro Electro Mechanical Systems (***[IEEE MEMS](https://www.memsconferences.org/mems2021/)***), pp. 34-37, Jan. 25-29, 2021, Online. [**Download PDF**](https://yusong17.github.io/mypaper/confer/whb-mems2021.pdf).
+
+​	18. L Miao, J Wan, H Guo, H Wang, **Yu Song**, X Chen, H Zhang\*. Kirigami Cross-Shaped 3D Buckling Active Sensor for Detecting Stretching and Bending, International Conference on Solid-State Sensors, Actuators and Microsystems (***[TRANSDUCERS](https://www.transducersconferences.org/archive/transducers2019/)***), pp. 2488-2491, Jun. 23-27, 2019, Berlin, Germany. [**Download PDF**](https://yusong17.github.io/mypaper/confer/mlm-trans2019.pdf).
+
+​	17. H Wang†, **Yu Song**†, L Miao, J Wan, X Chen, X Cheng, H Guo, H Zhang\*. Stamp-assisted gravure printing of micro-supercapacitors with general flexible substrates, ***[IEEE MEMS](http://www.mems19.org/html/main.php?ckattempt=1)***, pp. 950-953, Jan. 27-31, 2019, Seoul, Korea. [**Download PDF**](https://yusong17.github.io/mypaper/confer/MEMS2019.pdf).	
+
+​	16. H Guo, X Chen, H Wu, **Yu Song**, H Chen, H Zhang\*. Stretchable Location Sensor Based on Transparent AgNWs Electrodes, IEEE International Conference on Nano/Micro Engineered and Molecular Systems (***[IEEE NEMS](https://ieeexplore.ieee.org/xpl/conhome/8540837/proceeding)***), pp. 373-376, Apr. 22-26, 2018, Singapore, Singapore. [**Download PDF**](https://yusong17.github.io/mypaper/confer/gh-nems2018.pdf).
+
+​	15. L Miao, B Meng, J Wan, H Chen, X Cheng, **Yu Song**, H Guo, H Zhang\*. A Highly Sensitive Flexible Piezoresistive Sensor Based on Wrinkled CNT-PDMS, ***[IEEE NEMS](https://ieeexplore.ieee.org/xpl/conhome/8540837/proceeding)***, pp. 567-571, Apr. 22-26, 2018, Singapore, Singapore. [**Download PDF**](https://yusong17.github.io/mypaper/confer/mlm-nems2018.pdf).
+
+​	14. **Yu Song**†, Z Song†, H Chen, X Chen, H Guo, H Wu, X Cheng, H Zhang\*. Wearable stretchable double-sided micro-supercapacitor with porous conductive elastomers, 2018 IEEE 31st International Conference on Micro Electro Mechanical Systems (***[IEEE MEMS](https://www.memsconferences.org/mems2018/)***, pp. 608-611, Jan. 21-25, 2018, Belfast, UK. [**Download PDF**](https://yusong17.github.io/mypaper/confer/MEMS2018.pdf).
+
+​	13. H Chen, Z Song, **Yu Song**, X Chen, L Miao, Z Su, H Zhang\*. Fingerprint-inspired triboelectrific sliding sensor, ***[IEEE MEMS](https://www.memsconferences.org/mems2018/)***, pp. 878-881, Jan. 21-25, 2018, Belfast, UK. [**Download PDF**](https://yusong17.github.io/mypaper/confer/cht-mems2018.pdf).
+
+​	12. J Huang, **Yu Song**, X Chen, X Zhang, L Miao, H Chen, J Zhang, B Meng, J Brugger, H Zhang\*. Flexible fabric-based wearable solid-state supercapacitor, ***[IEEE NEMS](https://ieeexplore.ieee.org/xpl/conhome/8012169/proceeding)***, pp. 169-172, Apr. 9-12, 2017, Los Angeles, USA. [**Download PDF**](https://yusong17.github.io/mypaper/confer/hjh-nems2016.pdf).
+
+​	11. L Miao, X Cheng, **Yu Song**, H Chen, B Meng, H Zhang\*. A novel multi-functional self-powered pressure sensor with hierarchical wrinkle structure, ***[IEEE NEMS](https://ieeexplore.ieee.org/xpl/conhome/8012169/proceeding)***, pp. 114-117, Apr. 9-12, Los Angeles, USA. [**Download PDF**](https://yusong17.github.io/mypaper/confer/mlm-nems2016.pdf).
+
+​	10. **Yu Song**, X Chen, H Chen, X Cheng, J Zhang, Z Su, L Miao, B Meng, Q Yuan, H Zhang\*. Freestanding solid-state micro-supercapacitor based on laser-patterned nanofibers, ***[IEEE MEMS](https://www.memsconferences.org/mems2017/)***, pp. 809-812, Jan. 22-26, 2017, Las Vegas, USA. [**Download PDF**](https://yusong17.github.io/mypaper/confer/MEMS2017.pdf).
+
+​	9. X Chen, **Yu Song**, H Chen, J Zhang, Z Su, X Cheng, B Meng, H Zhang\*. Stretchable thin-film generator with dual working modes for body motion energy harvesting, ***[IEEE MEMS](https://www.memsconferences.org/mems2017/)***, pp. 869-872, Jan. 22-26, 2017, Las Vegas, USA. [**Download PDF**](https://yusong17.github.io/mypaper/confer/cxx-mems2017.pdf).
+
+​	8. J Zhang, **Yu Song**, H Chen, X Cheng, X Chen, B Meng, Q Yuan, H Zhang\*. Stretchable, transparent and wearable sensor for multifunctional smart skins, ***[IEEE MEMS](https://www.memsconferences.org/mems2017/)***, pp. 1025-1028, Jan. 22-26, Las Vegas, USA. [**Download PDF**](https://yusong17.github.io/mypaper/confer/zjx-mems2017.pdf).
+
+​	7. Z Su, X Chen, H Chen, **Yu Song**, X Cheng, B Meng, Z Song, H Zhang\*. Bioinspired microporous elastomer with enhanced and tunable stretchability for strain sensing device, ***[IEEE MEMS](https://www.memsconferences.org/mems2017/)***, pp. 1036-1039, Jan. 22-26, 2017, Las Vegas, USA. [**Download PDF**](https://yusong17.github.io/mypaper/confer/szm-mems2017.pdf).
+
+​	6. X Cheng, L Miao, H Chen, **Yu Song**, Z Su, X Chen, H Wang, M Zhang, H Zhang\*. Triboelectrification based active sensor for liquid flow and bubble detetecting, ***[IEEE MEMS 2017](https://www.memsconferences.org/mems2017/)***, pp. 845-848, Jan. 22-26, 2017, Las Vegas, USA. [**Download PDF**](https://yusong17.github.io/mypaper/confer/cxl-mems2017.pdf).
+
+​	5. **Yu Song**, X Cheng, H Chen, M Han, X Chen, H Zhang\*. Highly compressible solid-state supercapacitor with folded paper-based electrode, ***[IEEE NEMS 2016](https://ieeexplore.ieee.org/xpl/conhome/7750493/proceeding)***, pp. 536-539, Apr. 16-20, 2016, Sendai, Japan. [**Download PDF**](https://yusong17.github.io/mypaper/confer/NEMS2016.pdf).
+
+​	4. H Chen, **Yu Song**, M Han, B Yu, X Cheng, X Chen, D Chen, H Zhang\*. Liquid metal droplet based tube-shaped electrostatic energy harvester, ***[IEEE MEMS 2016](http://www.mems2016.org/)***, pp. 1252-1255, Jan. 24-28, 2016, Shanghai, China. [**Download PDF**](https://yusong17.github.io/mypaper/confer/cht-mems2016.pdf).
+
+​	3. J Zhang, M Shi, H Chen, M Han, Yu Song, X Cheng, H Zhang\*. Ultra-sensitive transparent and stretchable pressure sensor with single electrode, ***[IEEE MEMS 2016](http://www.mems2016.org/)***, pp. 173-176, Jan. 24-28, 2016, Shanghai, China. [**Download PDF**](https://yusong17.github.io/mypaper/confer/zjx-mems2016.pdf).
+
+​	2. X Cheng, X Chen, B Meng, M Han, M Shi, H Chen, **Yu Song**, H Zhang\*. A flexible and wearable generator with fluorocarbon plasma induced wrinkle structure, ***[IEEE MEMS 2016](http://www.mems2016.org/)***, pp. 1181-1184, Jan. 24-28, 2016, Shanghai, China. [**Download PDF**](https://yusong17.github.io/mypaper/confer/cxl-mems2016.pdf).
+
+​	1. M Shi, J Zhang, M Han, **Yu Song**, Z Su, H Zhang\*. A single-electrode wearable triboelectric nanogenerator based on conductive & stretchable fabric, ***[IEEE MEMS 2016](http://www.mems2016.org/)***, pp. 1228-1231, Jan. 24-28, 2016, Shanghai, China. [**Download PDF**](https://yusong17.github.io/mypaper/confer/smy-mems2016.pdf).
 
 <br>
 
