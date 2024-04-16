@@ -20,9 +20,9 @@ header:
         Presidential Assistant Professor<br>
         Department of Biomedical Engineering<br>
         City University of Hong Kong<br>
-        Email: xxx@city.edu.hk<br>
-        Yeung Pxxx<br>
-        Tel: xxxx<br>
+        Email: yusong@city.edu.hk<br>
+        Yeung <br>
+        Tel: <br>
     </p>
   </div>
 </div>
@@ -47,4 +47,3 @@ header:
       Alumni
   </div>
 </div>
-

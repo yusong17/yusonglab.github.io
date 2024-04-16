@@ -9,7 +9,7 @@ header:
 ---
 ### Dr. Yu Song
 
-##### Email: xxx[at]cityu.edu.hk
+##### Email: yusong[at]cityu.edu.hk
 
 ##### **Office: YEUNG** xxx
 
